@@ -2,7 +2,7 @@
 Data Visualization Challenge
 
 
-Help when I was struggling on this assignment was found on the following resources 
+Help when I was struggling on this assignment was found on the following resources. I struggled on the line and scatter plots, and properly structuring data for my box plots.  
 
 https://realpython.com/pandas-merge-join-and-concat/#how-to-use-merge
 
